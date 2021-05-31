@@ -28,6 +28,8 @@ Lowest ride time is between 2AM and 5AM.
 ## Results
 Analysis of bikes per station accross the city was visualized. Cluster of stations means higher usage/demand. 
 
+![bike rental](https://user-images.githubusercontent.com/75961117/120231142-c5e72780-c21e-11eb-86bb-193e8da46d3f.PNG)
+
 
 
 ## By Gender
