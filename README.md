@@ -10,6 +10,9 @@ ride data
 
 We converted the datatype of some of the columns of CSV file using Python. For example, the tripduration column was converted into datetime datatype to increase accuracy of our analysis. 
 
+![Datetime](https://user-images.githubusercontent.com/75961117/120230180-c67ebe80-c21c-11eb-920a-cd4806380010.PNG)
+
+
 
 ##Summary Analysis
 
