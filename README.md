@@ -18,11 +18,17 @@ We converted the datatype of some of the columns of CSV file using Python. For e
 
 
 Usage of the over 13,983 bikes appear to be dominated by Male group followed by Female and then other genders. 
+
 Male = 65%
+
 Female = 25%
+
 Others = 10%
+
 People born from 1980 onward appear to be active bikers than other age groups. 
+
 Peak riding time for the month of August is between 5PM to 8PM.
+
 Lowest ride time is between 2AM and 5AM.
 
 ## Results
@@ -52,6 +58,7 @@ People within the age group of 35 to 25 turn use Citibike more than other age gr
 ## Peak Riding Time
 
 For the most part, peak riding time for the month of August is between 5PM to 8PM.
+
 Lowest ride time is between 2AM and 5AM. The chart below visualized High and Low periods
 
 
@@ -62,8 +69,11 @@ Lowest ride time is between 2AM and 5AM. The chart below visualized High and Low
 ## Conclusion
 
 Majority of users are subscribers.
+
 Since we relied on just one month of ride data, we are unable to project on future performance. 
+
 Target customers are men within 35 to 25 years of age and 25% of women. 
+
 Higher income neighborhoods are most likely to become users thank low-income areas. 
 
 
