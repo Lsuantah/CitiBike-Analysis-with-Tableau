@@ -33,6 +33,7 @@ Analysis of bikes per station accross the city was visualized. Cluster of statio
 
 
 ## By Gender
+We compared patronage by gender and produced visualization below. 
 
 ## By age group
 
