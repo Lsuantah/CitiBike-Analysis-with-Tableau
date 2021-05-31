@@ -35,6 +35,9 @@ Analysis of bikes per station accross the city was visualized. Cluster of statio
 ## By Gender
 We compared patronage by gender and produced visualization below. 
 
+![pie-riders by gender](https://user-images.githubusercontent.com/75961117/120231493-83721a80-c21f-11eb-97e6-e78a330ef61e.PNG)
+
+
 ## By age group
 
 People within the age group of 35 to 25 turn use Citibike more than other age group. 
