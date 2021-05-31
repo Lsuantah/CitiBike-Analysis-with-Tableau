@@ -38,6 +38,10 @@ We compared patronage by gender and produced visualization below.
 ![pie-riders by gender](https://user-images.githubusercontent.com/75961117/120231493-83721a80-c21f-11eb-97e6-e78a330ef61e.PNG)
 
 
+![ckout by gender](https://user-images.githubusercontent.com/75961117/120231663-d77cff00-c21f-11eb-9a17-5e9514e43a5a.PNG)
+
+
+
 ## By age group
 
 People within the age group of 35 to 25 turn use Citibike more than other age group. 
