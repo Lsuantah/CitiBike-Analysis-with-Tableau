@@ -26,6 +26,9 @@ Peak riding time for the month of August is between 5PM to 8PM.
 Lowest ride time is between 2AM and 5AM.
 
 ## Results
+Analysis of bikes per station accross the city was visualized. Cluster of stations means higher usage/demand. 
+
+
 
 ## By Gender
 
