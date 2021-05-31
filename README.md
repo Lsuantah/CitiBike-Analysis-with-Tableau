@@ -44,7 +44,15 @@ We compared patronage by gender and produced visualization below.
 
 ## By age group
 
-People within the age group of 35 to 25 turn use Citibike more than other age group. 
+People within the age group of 35 to 25 turn use Citibike more than other age group. The subscribe more and ride for longer hours.
+
+![subscription](https://user-images.githubusercontent.com/75961117/120231827-3d698680-c220-11eb-92ba-5e9bbc095f4a.PNG)
+
+
+## Peak Riding Time
+
+For the most part, peak riding time for the month of August is between 5PM to 8PM.
+Lowest ride time is between 2AM and 5AM. The chart below visualized High and Low periods
 
 
 
