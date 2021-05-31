@@ -59,5 +59,11 @@ Lowest ride time is between 2AM and 5AM. The chart below visualized High and Low
 
 
 
+## Conclusion
+
+Majority of users are subscribers.
+Since we relied on just one month of ride data, we are unable to project on future performance. 
+Target customers are men within 35 to 25 years of age and 25% of women. 
+Higher income neighborhoods are most likely to become users thank low-income areas. 
 
 
