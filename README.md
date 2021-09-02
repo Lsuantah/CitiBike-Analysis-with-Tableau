@@ -70,7 +70,6 @@ Lowest ride time is between 2AM and 5AM. The chart below visualized High and Low
 ![Peak riding time](https://user-images.githubusercontent.com/75961117/120232525-b74e3f80-c221-11eb-9b49-571dcbf44ffc.PNG)
 
 
-
 ## Conclusion
 
 Majority of users are subscribers.
