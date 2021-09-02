@@ -6,6 +6,7 @@ Tableau Link  https://public.tableau.com/views/CitibikeAnalysis_16222565557120/C
 
 ## Purpose
 
+
 The purpose of this analysis is to use Tableau visualizations to provide potential investors with insightful information into the Bikeshare business. This presentation will be based on NYC CitiBike 
 ride data
 
