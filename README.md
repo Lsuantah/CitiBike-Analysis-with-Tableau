@@ -80,5 +80,3 @@ Since we relied on just one month of ride data, we are unable to project on futu
 Target customers are men within 35 to 25 years of age and 25% of women. 
 
 Higher income neighborhoods are most likely to become users thank low-income areas. 
-
-
